@@ -1,0 +1,2 @@
+I am writing this for the test of Git.
+I have added this sentence.
