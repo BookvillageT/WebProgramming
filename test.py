@@ -1,8 +1,8 @@
-#import cgi
+import cgi
 
-#form = cgi.FieldStorage()
-#tname = form.getvalue('textname','')
+form = cgi.FieldStorage()
+tname = form.getvalue('textname','')
 
 print("Hello python")
-#print(tname)
+print(tname)
 
